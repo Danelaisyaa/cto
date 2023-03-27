@@ -10,3 +10,4 @@ CTO Future-Goals
   * Laravel
 - Interview
 - Vlog
+- Python
